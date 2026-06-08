@@ -24,8 +24,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <ComputersCanvas />
-
+{/* <ComputersCanvas /> */}
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center z-10'>
         <a href='#about' className='group' aria-label="Scroll to about section">
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2 group-hover:border-[#915EFF] transition-colors duration-300 gpu-accelerated'>
